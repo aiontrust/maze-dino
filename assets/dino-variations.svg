@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640">
+<rect width="1000" height="640" rx="28" fill="#ff2fa8"/>
+<rect x="24" y="24" width="220" height="290" rx="16" fill="#fff"/>
+<g transform="translate(134 154) scale(1.45)"><path d="M-26 8 C-50 20 -64 6 -56 -10 C-50 0 -40 0 -26 -10 Z" fill="#ff2fa8"/>
+<ellipse cx="-2" cy="12" rx="30" ry="30" fill="#ff2fa8"/>
+<ellipse cx="5" cy="18" rx="17" ry="20" fill="#ffa1d8"/>
+<ellipse cx="-14" cy="41" rx="11" ry="7" fill="#c72583"/><ellipse cx="11" cy="41" rx="11" ry="7" fill="#c72583"/>
+<rect x="-8" y="-42" width="58" height="38" rx="19" fill="#ff2fa8"/>
+<path d="M17 4 q9 1 10 9 M17 4 q-1 8 7 11" stroke="#c72583" stroke-width="3" fill="none" stroke-linecap="round"/>
+<circle cx="31" cy="-30" r="3.4" fill="#111"/><circle cx="32" cy="-31" r="1" fill="#fff"/>
+<path d="M30 -19 Q38 -13 45 -21" stroke="#111" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+<circle cx="45" cy="-33" r="1.6" fill="#c72583"/></g>
+<text x="134" y="260" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="17" font-weight="700" fill="#1a1d2e">DNA 00000000</text>
+<text x="134" y="282" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12.5" fill="#5b6180">Hot Pink · Dot eyes</text>
+<text x="134" y="299" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12.5" fill="#5b6180">No spikes · Plain · No accessory</text>
+<rect x="268" y="24" width="220" height="290" rx="16" fill="#fff"/>
+<g transform="translate(378 154) scale(1.45)"><polygon points="-26.7,-6.1 -31.7,4.8 -37.3,-4.5" fill="#6f47c7"/>
+<polygon points="-16.7,-14.8 -25.9,-7.1 -27.1,-17.9" fill="#6f47c7"/>
+<polygon points="-4.0,-18.5 -15.6,-15.4 -12.1,-25.7" fill="#6f47c7"/>
+<path d="M-26 8 C-50 20 -64 6 -56 -10 C-50 0 -40 0 -26 -10 Z" fill="#8e5bff"/>
+<ellipse cx="-2" cy="12" rx="30" ry="30" fill="#8e5bff"/>
+<ellipse cx="5" cy="18" rx="17" ry="20" fill="#ccb5ff"/>
+<ellipse cx="-14" cy="41" rx="11" ry="7" fill="#6f47c7"/><ellipse cx="11" cy="41" rx="11" ry="7" fill="#6f47c7"/>
+<circle cx="-16" cy="-4" r="3.5" fill="#6f47c7"/>
+<circle cx="-22" cy="12" r="3" fill="#6f47c7"/>
+<circle cx="-14" cy="26" r="3.5" fill="#6f47c7"/>
+<rect x="-8" y="-42" width="58" height="38" rx="19" fill="#8e5bff"/>
+<path d="M17 4 q9 1 10 9 M17 4 q-1 8 7 11" stroke="#6f47c7" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M26 -30 q5 4 10 0" stroke="#111" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+<path d="M30 -19 Q38 -13 45 -21" stroke="#111" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+<circle cx="45" cy="-33" r="1.6" fill="#6f47c7"/>
+<circle cx="31" cy="-30" r="9" fill="none" stroke="#222" stroke-width="2.6"/><path d="M22 -30 L8 -34" stroke="#222" stroke-width="2.6" stroke-linecap="round"/></g>
+<text x="378" y="260" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="17" font-weight="700" fill="#1a1d2e">DNA 01211300</text>
+<text x="378" y="282" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12.5" fill="#5b6180">Violet · Sleepy eyes</text>
+<text x="378" y="299" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12.5" fill="#5b6180">Small spikes · Spots · Glasses</text>
+<rect x="512" y="24" width="220" height="290" rx="16" fill="#fff"/>
+<g transform="translate(622 154) scale(1.45)"><circle cx="-31.9" cy="-1.9" r="6" fill="#25a77d"/>
+<circle cx="-23.2" cy="-13.3" r="6" fill="#25a77d"/>
+<circle cx="-10.5" cy="-19.9" r="6" fill="#25a77d"/>
+<path d="M-26 8 C-50 20 -64 6 -56 -10 C-50 0 -40 0 -26 -10 Z" fill="#2fd6a0"/>
+<ellipse cx="-2" cy="12" rx="30" ry="30" fill="#2fd6a0"/>
+<ellipse cx="5" cy="18" rx="17" ry="20" fill="#a1edd4"/>
+<ellipse cx="-14" cy="41" rx="11" ry="7" fill="#25a77d"/><ellipse cx="11" cy="41" rx="11" ry="7" fill="#25a77d"/>
+<circle cx="0" cy="8" r="2.6" fill="#2fd6a0"/>
+<circle cx="10" cy="12" r="2.6" fill="#2fd6a0"/>
+<circle cx="4" cy="20" r="2.6" fill="#2fd6a0"/>
+<circle cx="12" cy="26" r="2.6" fill="#2fd6a0"/>
+<circle cx="-2" cy="30" r="2.6" fill="#2fd6a0"/>
+<rect x="-8" y="-42" width="58" height="38" rx="19" fill="#2fd6a0"/>
+<path d="M17 4 q9 1 10 9 M17 4 q-1 8 7 11" stroke="#25a77d" stroke-width="3" fill="none" stroke-linecap="round"/>
+<circle cx="31" cy="-30" r="3.4" fill="#111"/><circle cx="32" cy="-31" r="1" fill="#fff"/>
+<path d="M30 -19 Q38 -13 45 -21" stroke="#111" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+<circle cx="45" cy="-33" r="1.6" fill="#25a77d"/>
+<polygon points="10,-40 34,-40 22,-72" fill="#ffd23f"/><circle cx="22" cy="-73" r="4.5" fill="#ff2fa8"/><path d="M14 -48 h16 M17 -57 h10" stroke="#fff" stroke-width="2.5"/></g>
+<text x="622" y="260" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="17" font-weight="700" fill="#1a1d2e">DNA 02033101</text>
+<text x="622" y="282" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12.5" fill="#5b6180">Mint · Dot eyes</text>
+<text x="622" y="299" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12.5" fill="#5b6180">Bumpy back · Belly dots · Party hat</text>
+<rect x="756" y="24" width="220" height="290" rx="16" fill="#fff"/>
+<g transform="translate(866 154) scale(1.45)"><polygon points="-26.7,-6.1 -31.7,4.8 -37.3,-4.5" fill="#c78b25"/>
+<polygon points="-16.7,-14.8 -25.9,-7.1 -27.1,-17.9" fill="#c78b25"/>
+<polygon points="-4.0,-18.5 -15.6,-15.4 -12.1,-25.7" fill="#c78b25"/>
+<path d="M-26 8 C-50 20 -64 6 -56 -10 C-50 0 -40 0 -26 -10 Z" fill="#ffb22f"/>
+<ellipse cx="-2" cy="12" rx="30" ry="30" fill="#ffb22f"/>
+<ellipse cx="5" cy="18" rx="17" ry="20" fill="#ffdca1"/>
+<ellipse cx="-14" cy="41" rx="11" ry="7" fill="#c78b25"/><ellipse cx="11" cy="41" rx="11" ry="7" fill="#c78b25"/>
+<path d="M-14 -4 q-10 8 -4 18" stroke="#c78b25" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+<path d="M-20 10 q-10 8 -4 18" stroke="#c78b25" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+<path d="M-14 24 q-10 8 -4 18" stroke="#c78b25" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+<rect x="-8" y="-42" width="58" height="38" rx="19" fill="#ffb22f"/>
+<path d="M17 4 q9 1 10 9 M17 4 q-1 8 7 11" stroke="#c78b25" stroke-width="3" fill="none" stroke-linecap="round"/>
+<circle cx="31" cy="-30" r="3.4" fill="#111"/><circle cx="32" cy="-31" r="1" fill="#fff"/>
+<circle cx="25" cy="-19" r="4" fill="#ff7aa8" opacity=".6"/>
+<path d="M30 -19 Q38 -13 45 -21" stroke="#111" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+<circle cx="45" cy="-33" r="1.6" fill="#c78b25"/>
+<polygon points="10,-41 10,-62 19,-52 27,-64 35,-52 44,-62 44,-41" fill="#ffd23f" stroke="#e0a800" stroke-width="2"/></g>
+<text x="866" y="260" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="17" font-weight="700" fill="#1a1d2e">DNA 03312405</text>
+<text x="866" y="282" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12.5" fill="#5b6180">Sunny · Blush eyes</text>
+<text x="866" y="299" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12.5" fill="#5b6180">Small spikes · Stripes · Crown</text>
+<rect x="24" y="326" width="220" height="290" rx="16" fill="#fff"/>
+<g transform="translate(134 456) scale(1.45)"><polygon points="-25.8,-7.9 -32.6,6.6 -42.8,-7.0" fill="#3184c7"/>
+<polygon points="-15.2,-16.1 -27.4,-5.8 -30.9,-22.5" fill="#3184c7"/>
+<polygon points="-2.0,-19.0 -17.5,-14.9 -13.6,-31.5" fill="#3184c7"/>
+<path d="M-26 8 C-50 20 -64 6 -56 -10 C-50 0 -40 0 -26 -10 Z" fill="#3fa9ff"/>
+<ellipse cx="-2" cy="12" rx="30" ry="30" fill="#3fa9ff"/>
+<ellipse cx="5" cy="18" rx="17" ry="20" fill="#a9d8ff"/>
+<ellipse cx="-14" cy="41" rx="11" ry="7" fill="#3184c7"/><ellipse cx="11" cy="41" rx="11" ry="7" fill="#3184c7"/>
+<path d="M-14 -4 q-10 8 -4 18" stroke="#3184c7" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+<path d="M-20 10 q-10 8 -4 18" stroke="#3184c7" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+<path d="M-14 24 q-10 8 -4 18" stroke="#3184c7" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+<rect x="-8" y="-42" width="58" height="38" rx="19" fill="#3fa9ff"/>
+<path d="M17 4 q9 1 10 9 M17 4 q-1 8 7 11" stroke="#3184c7" stroke-width="3" fill="none" stroke-linecap="round"/>
+<circle cx="31" cy="-30" r="5.2" fill="#111"/><circle cx="33" cy="-32" r="1.8" fill="#fff"/><circle cx="29.5" cy="-28" r="1" fill="#fff"/>
+<path d="M30 -19 Q38 -13 45 -21" stroke="#111" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+<circle cx="45" cy="-33" r="1.6" fill="#3184c7"/>
+<polygon points="12,-42 -4,-54 -4,-32" fill="#ffd23f"/><polygon points="12,-42 28,-54 28,-32" fill="#ffd23f" transform="translate(0 0)"/><circle cx="12" cy="-42" r="4.5" fill="#e0a800"/></g>
+<text x="134" y="562" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="17" font-weight="700" fill="#1a1d2e">DNA 04122207</text>
+<text x="134" y="584" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12.5" fill="#5b6180">Sky · Shiny eyes</text>
+<text x="134" y="601" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12.5" fill="#5b6180">Big spikes · Stripes · Bow</text>
+<rect x="268" y="326" width="220" height="290" rx="16" fill="#fff"/>
+<g transform="translate(378 456) scale(1.45)"><circle cx="-31.9" cy="-1.9" r="6" fill="#c75348"/>
+<circle cx="-23.2" cy="-13.3" r="6" fill="#c75348"/>
+<circle cx="-10.5" cy="-19.9" r="6" fill="#c75348"/>
+<path d="M-26 8 C-50 20 -64 6 -56 -10 C-50 0 -40 0 -26 -10 Z" fill="#ff6a5c"/>
+<ellipse cx="-2" cy="12" rx="30" ry="30" fill="#ff6a5c"/>
+<ellipse cx="5" cy="18" rx="17" ry="20" fill="#ffbcb6"/>
+<ellipse cx="-14" cy="41" rx="11" ry="7" fill="#c75348"/><ellipse cx="11" cy="41" rx="11" ry="7" fill="#c75348"/>
+<circle cx="-16" cy="-4" r="3.5" fill="#c75348"/>
+<circle cx="-22" cy="12" r="3" fill="#c75348"/>
+<circle cx="-14" cy="26" r="3.5" fill="#c75348"/>
+<rect x="-8" y="-42" width="58" height="38" rx="19" fill="#ff6a5c"/>
+<path d="M17 4 q9 1 10 9 M17 4 q-1 8 7 11" stroke="#c75348" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M26 -30 q5 4 10 0" stroke="#111" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+<path d="M30 -19 Q38 -13 45 -21" stroke="#111" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+<circle cx="45" cy="-33" r="1.6" fill="#c75348"/></g>
+<text x="378" y="562" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="17" font-weight="700" fill="#1a1d2e">DNA 05231019</text>
+<text x="378" y="584" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12.5" fill="#5b6180">Coral · Sleepy eyes</text>
+<text x="378" y="601" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12.5" fill="#5b6180">Bumpy back · Spots · No accessory</text>
+<rect x="512" y="326" width="220" height="290" rx="16" fill="#fff"/>
+<g transform="translate(622 456) scale(1.45)"><path d="M-26 8 C-50 20 -64 6 -56 -10 C-50 0 -40 0 -26 -10 Z" fill="#8fd62f"/>
+<ellipse cx="-2" cy="12" rx="30" ry="30" fill="#8fd62f"/>
+<ellipse cx="5" cy="18" rx="17" ry="20" fill="#cdeda1"/>
+<ellipse cx="-14" cy="41" rx="11" ry="7" fill="#70a725"/><ellipse cx="11" cy="41" rx="11" ry="7" fill="#70a725"/>
+<path d="M-14 -4 q-10 8 -4 18" stroke="#70a725" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+<path d="M-20 10 q-10 8 -4 18" stroke="#70a725" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+<path d="M-14 24 q-10 8 -4 18" stroke="#70a725" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+<rect x="-8" y="-42" width="58" height="38" rx="19" fill="#8fd62f"/>
+<path d="M17 4 q9 1 10 9 M17 4 q-1 8 7 11" stroke="#70a725" stroke-width="3" fill="none" stroke-linecap="round"/>
+<circle cx="31" cy="-30" r="3.4" fill="#111"/><circle cx="32" cy="-31" r="1" fill="#fff"/>
+<circle cx="25" cy="-19" r="4" fill="#ff7aa8" opacity=".6"/>
+<path d="M30 -19 Q38 -13 45 -21" stroke="#111" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+<circle cx="45" cy="-33" r="1.6" fill="#70a725"/>
+<polygon points="10,-40 34,-40 22,-72" fill="#ffd23f"/><circle cx="22" cy="-73" r="4.5" fill="#ff2fa8"/><path d="M14 -48 h16 M17 -57 h10" stroke="#fff" stroke-width="2.5"/></g>
+<text x="622" y="562" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="17" font-weight="700" fill="#1a1d2e">DNA 06302142</text>
+<text x="622" y="584" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12.5" fill="#5b6180">Lime · Blush eyes</text>
+<text x="622" y="601" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12.5" fill="#5b6180">No spikes · Stripes · Party hat</text>
+<rect x="756" y="326" width="220" height="290" rx="16" fill="#fff"/>
+<g transform="translate(866 456) scale(1.45)"><polygon points="-25.8,-7.9 -32.6,6.6 -42.8,-7.0" fill="#3ea2af"/>
+<polygon points="-15.2,-16.1 -27.4,-5.8 -30.9,-22.5" fill="#3ea2af"/>
+<polygon points="-2.0,-19.0 -17.5,-14.9 -13.6,-31.5" fill="#3ea2af"/>
+<path d="M-26 8 C-50 20 -64 6 -56 -10 C-50 0 -40 0 -26 -10 Z" fill="#4fd0e0"/>
+<ellipse cx="-2" cy="12" rx="30" ry="30" fill="#4fd0e0"/>
+<ellipse cx="5" cy="18" rx="17" ry="20" fill="#b0eaf1"/>
+<ellipse cx="-14" cy="41" rx="11" ry="7" fill="#3ea2af"/><ellipse cx="11" cy="41" rx="11" ry="7" fill="#3ea2af"/>
+<rect x="-8" y="-42" width="58" height="38" rx="19" fill="#4fd0e0"/>
+<path d="M17 4 q9 1 10 9 M17 4 q-1 8 7 11" stroke="#3ea2af" stroke-width="3" fill="none" stroke-linecap="round"/>
+<circle cx="31" cy="-30" r="5.2" fill="#111"/><circle cx="33" cy="-32" r="1.8" fill="#fff"/><circle cx="29.5" cy="-28" r="1" fill="#fff"/>
+<path d="M30 -19 Q38 -13 45 -21" stroke="#111" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+<circle cx="45" cy="-33" r="1.6" fill="#3ea2af"/>
+<polygon points="10,-41 10,-62 19,-52 27,-64 35,-52 44,-62 44,-41" fill="#ffd23f" stroke="#e0a800" stroke-width="2"/></g>
+<text x="866" y="562" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="17" font-weight="700" fill="#1a1d2e">DNA 07120433</text>
+<text x="866" y="584" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12.5" fill="#5b6180">Ice · Shiny eyes</text>
+<text x="866" y="601" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12.5" fill="#5b6180">Big spikes · Plain · Crown</text>
+</svg>
