@@ -49,3 +49,6 @@ Regenerate the sheet with `python3 tools/make_variations.py` (needs Python and P
 ## Notes
 
 Maze Dino is an early-stage hobby project. MAZE has small liquidity, and nothing here is financial advice or a promise of value. Always check the contract address above before trading.
+
+## Kids mode
+Add `?kids=1` to the URL (https://aiontrust.github.io/maze-dino/?kids=1) to hide the wallet and tip section so young players only see the maze.

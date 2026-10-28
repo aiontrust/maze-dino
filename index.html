@@ -34,6 +34,8 @@
   .note { color:#fff; font-size:.8rem; margin-top:20px; text-align:center; }
   code { font-family: ui-monospace, Menlo, Consolas, monospace; font-size:.85rem; }
 </style>
+<script>try{if(/[?&]kids=1\b/.test(location.search))document.documentElement.classList.add("kids")}catch(e){}</script>
+<style>.kids #walletSec,.kids #tokenNote{display:none!important}</style>
 </head>
 <body>
 <div class="wrap">
@@ -61,7 +63,7 @@
     <div class="row" style="justify-content:center"><button class="alt" id="restart">New maze</button></div>
   </section>
 
-  <section>
+  <section id="walletSec">
     <h2>$MAZE wallet (optional)</h2>
     <p class="muted" style="margin-top:0">The game is free to play. Connect a wallet to see your MAZE balance or send a tip. Nothing is ever sent unless you confirm it in your wallet.</p>
     <div class="row"><button id="connect">Connect wallet</button><span id="acct" class="muted"></span></div>
@@ -78,7 +80,7 @@
     <div class="status" id="msg"></div>
   </section>
 
-  <p class="note">MAZE ($MAZE) token: <code id="ca"></code>. For fun and information only, not financial advice.</p>
+  <p class="note" id="tokenNote">MAZE ($MAZE) token: <code id="ca"></code>. For fun and information only, not financial advice.</p>
 </div>
 
 <script>
