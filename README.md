@@ -25,7 +25,7 @@ The wallet panel talks to your wallet directly (no libraries, no server). Nothin
 
 - **Version 1 (this repo):** playable maze, wallet connect, MAZE balance, optional tips.
 - **Version 2:** a small reward pool contract funded with MAZE. Finishing a level lets a player claim a small reward, with finishes verified so bots cannot drain the pool.
-- **Version 3:** collectible dinos whose look comes from a DNA number (below).
+- **Version 3:** collectible dinos whose look comes from a DNA number (below). A draft contract is in [`contracts/`](contracts/); it is untested on a live network and not deployed.
 
 ## Dino DNA (concept art)
 
