@@ -66,6 +66,7 @@ Add `?kids=1` to the URL (https://aiontrust.github.io/maze-dino/?kids=1) to hide
 ## Offline and install
 
 - After one visit online, the maze game opens without a connection, including kids mode (`?kids=1`).
+- Opening it while online also lets the other MAZE DINO pages (the landing page and the other two games) save themselves, so one visit here sets up all four. This works while all four stay on `aiontrust.github.io`.
 - The wallet section still needs a connection, because reading a balance or sending a tip talks to the blockchain.
 - When you are online the newest page is always loaded; the saved copy is only used when there is no connection.
 - **Install:** on iPhone use Safari → Share → Add to Home Screen. On Android use the Chrome menu → Install app.

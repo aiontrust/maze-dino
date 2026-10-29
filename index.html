@@ -294,9 +294,18 @@ newLevel();
 window.__game = { move, get state() { return {px, py, N, grid, done}; } };
 </script>
 <script>
-// Offline support: remember this game so it opens without a connection.
+// Offline support: remember this page so it opens without a connection.
+// While online, also let the other MAZE DINO pages save themselves, so one visit here sets up all four.
 if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol)) {
-  window.addEventListener("load", function () { navigator.serviceWorker.register("sw.js").catch(function () {}); });
+  window.addEventListener("load", function () {
+    var sw = navigator.serviceWorker;
+    sw.register("sw.js").catch(function () {});
+    if (navigator.onLine) {
+      ["maze-token", "maze-dino", "maze-dino-daily", "maze-tales"].forEach(function (g) {
+        sw.register("/" + g + "/sw.js", { scope: "/" + g + "/" }).catch(function () {});
+      });
+    }
+  });
 }
 </script>
 </body>
