@@ -247,7 +247,13 @@ async function refreshBalance() {
 
 async function connect() {
   const eth = window.ethereum;
-  if (!eth) { $("msg").textContent = "No wallet found. Install MetaMask, or open this page in your wallet's browser."; return; }
+  if (!eth) {
+    const installed = (navigator.standalone === true) || (window.matchMedia && matchMedia("(display-mode: standalone)").matches);
+    $("msg").textContent = installed
+      ? "This installed app can't reach a wallet. Open aiontrust.github.io/maze-dino in your wallet app's browser (MetaMask or Rabby) to connect."
+      : "No wallet found in this browser. On a phone, open this page inside your wallet app's browser (MetaMask or Rabby). On a computer, install a wallet extension such as MetaMask.";
+    return;
+  }
   try {
     const accts = await eth.request({method:"eth_requestAccounts"});
     account = accts[0];
