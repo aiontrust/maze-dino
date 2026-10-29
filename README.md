@@ -70,4 +70,5 @@ Add `?kids=1` to the URL (https://aiontrust.github.io/maze-dino/?kids=1) to hide
 - The wallet section still needs a connection, because reading a balance or sending a tip talks to the blockchain.
 - When you are online the newest page is always loaded; the saved copy is only used when there is no connection.
 - **Install:** on iPhone use Safari → Share → Add to Home Screen. On Android use the Chrome menu → Install app.
+- **Kids mode install:** open the game with `?kids=1` (for example `https://aiontrust.github.io/maze-dino/?kids=1`) and save it to the Home Screen. The icon then always opens in kids mode.
 - If a phone keeps showing an old logo or icon, change the version name in `sw.js` (`mdd-maze-v1` to `mdd-maze-v2`), commit, and open the game online once.

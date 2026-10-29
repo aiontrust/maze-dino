@@ -3,7 +3,7 @@
 // the cached copy is used only when the network is not available.
 const CACHE = 'mdd-maze-v1';
 const PREFIX = 'mdd-maze-';
-const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./assets/maze-dino-logo.jpg", "./favicon.ico"];
+const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./manifest-kids.webmanifest", "./icon-192.png", "./icon-512.png", "./assets/maze-dino-logo.jpg", "./favicon.ico"];
 
 self.addEventListener('install', e => {
   e.waitUntil(
