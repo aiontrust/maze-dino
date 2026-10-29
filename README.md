@@ -50,5 +50,15 @@ Regenerate the sheet with `python3 tools/make_variations.py` (needs Python and P
 
 Maze Dino is an early-stage hobby project. MAZE has small liquidity, and nothing here is financial advice or a promise of value. Always check the contract address above before trading.
 
+## How it works (for young programmers)
+The whole game is one file, `index.html`, made of HTML, CSS and JavaScript. You can open it in a browser and change it.
+
+- **Making a maze.** `makeMaze(n)` builds an n by n grid and carves paths with a "walk and backtrack" method: start in a corner, move to a random cell you haven't visited, and when you get stuck, step back until you find a new way. Every cell ends up connected, so there is always a path to the star.
+- **Walls.** Each cell stores which sides are open as numbers: up = 1, right = 2, down = 4, left = 8. Add them together to describe a cell.
+- **Moving.** Arrow keys, WASD, swipes and the on-screen buttons all call the same `move()` function, which only lets the dino pass through open sides.
+- **Levels.** Each level makes the grid a little bigger (`6 + level * 2`, up to 24).
+
+Try it: change the 6 or the 24 in `newLevel()`, or change the colors at the top of the file, and reload the page.
+
 ## Kids mode
 Add `?kids=1` to the URL (https://aiontrust.github.io/maze-dino/?kids=1) to hide the wallet and tip section so young players only see the maze.
