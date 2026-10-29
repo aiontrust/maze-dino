@@ -6,6 +6,9 @@
 <title>MAZE DINO | Puzzle Adventures</title>
 <meta name="description" content="Guide the pink dino through the maze. Connect a wallet to see your $MAZE balance or send a tip.">
 <link rel="icon" href="favicon.ico" sizes="any">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#ff2fa8">
+<link rel="apple-touch-icon" href="icon-192.png">
 <style>
   :root { --bg:#ff2fa8; --card:#fff; --text:#1a1d2e; --muted:#5b6180; --accent:#c4007a; --border:#f3c4e0; }
   * { box-sizing: border-box; }
@@ -283,6 +286,12 @@ if (window.ethereum) window.ethereum.on?.("accountsChanged", () => location.relo
 
 newLevel();
 window.__game = { move, get state() { return {px, py, N, grid, done}; } };
+</script>
+<script>
+// Offline support: remember this game so it opens without a connection.
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol)) {
+  window.addEventListener("load", function () { navigator.serviceWorker.register("sw.js").catch(function () {}); });
+}
 </script>
 </body>
 </html>
